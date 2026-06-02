@@ -1,0 +1,211 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/okxxx-downloader",
+  "serply_link": "https://serp.ly/okxxx-downloader",
+  "app_name": "Okxxx Video Downloader",
+  "short_description": "Download & Save Okxxx Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Okxxx Downloader is designed specifically for OK.xxx's clean /video/ / page structure, where video playback typically occurs through an embedded iframe. This extension helps you capture video streams from these pages and save them as standard MP4 files for offline viewing. The extension focuses on the exact OK.xxx site identity with its short brand name and explicit.xxx TLD, keeping messaging distinct from other similarly named platforms.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/okxxx-downloader-fullscreen-01-081b5b9ad3.webp",
+    "https://apps.serp.co/media/optimized-products/okxxx-downloader-fullscreen-02-d011293f12.webp",
+    "https://apps.serp.co/media/optimized-products/okxxx-downloader-fullscreen-03-893dddaca4.webp",
+    "https://apps.serp.co/media/optimized-products/okxxx-downloader-fullscreen-04-95dda821ba.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "What page types does Okxxx Downloader support?",
+      "answer": "The extension is designed for OK.xxx's /video/ / page structure, which is a simple, short route pattern that hosts video content through an iframe handoff."
+    },
+    {
+      "question": "Does this extension work with other OK-branded sites?",
+      "answer": "No, this extension is specifically built for OK.xxx and should not be confused with OK Porn or other similarly named platforms. The target is the exact OK.xxx site with its.xxx TLD."
+    },
+    {
+      "question": "What stream formats can I expect to download?",
+      "answer": "The extension targets M3U8 and MP4 streams, which are the most common formats found on OK.xxx pages through the iframe-based playback surface."
+    },
+    {
+      "question": "Can I download videos from xiaoshenke.net?",
+      "answer": "Yes, xiaoshenke.net is one of the domains associated with OK.xxx and is covered by the extension's multi-domain support."
+    },
+    {
+      "question": "Is the extension fully release-ready?",
+      "answer": "The target is verified, but implementation caveats exist. The extension is available for testing and use, but ongoing development may refine the extraction process."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Preserves the exact OK.xxx brand identity with the.xxx TLD and short site name",
+    "Focuses on the clean /video/ / page shape for straightforward targeting",
+    "Handles iframe-based playback handoffs where the real video surface is embedded",
+    "Supports M3U8 and MP4 stream formats commonly found on OK.xxx",
+    "Provides multi-domain awareness across ok.xxx, www.ok.xxx, and xiaoshenke.net",
+    "Uses honest verified-target status while acknowledging implementation caveats",
+    "Keeps brand messaging clearly distinct from OK Porn and other OK-labeled sites",
+    "Targeted support for OK.xxx /video/ / page structure",
+    "Handles iframe-based video playback handoffs",
+    "Detects M3U8 and MP4 stream formats",
+    "Multi-domain coverage including ok.xxx, www.ok.xxx, and xiaoshenke.net",
+    "Clean popup interface for easy download initiation",
+    "Quality selection options when multiple streams are detected",
+    "Simple one-click download process",
+    "Saves videos in standard MP4 format for broad compatibility"
+  ],
+  "content": {
+    "why": [
+      "Many video sites use embedded player surfaces to deliver their content, making it difficult for users to save videos for offline viewing. OK.xxx follows this pattern with its iframe-based playback handoffs on simple /video/ / pages, where the real video stream can be hidden behind an embedded player. Without the right tool, you might struggle to locate and capture the actual media file.",
+      "Okxxx Downloader addresses this challenge by targeting the specific page structure and playback method used by OK.xxx. It works with the iframe handoff approach, helping you identify and download M3U8 or MP4 streams that appear on the embedded surface. The extension is built around the exact OK.xxx brand identity and page patterns, so you get focused support for this particular platform rather than a generic video downloader."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open OK.xxx and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Install the Okxxx Downloader extension from the latest GitHub release.",
+      "Navigate to OK.xxx and find a video page with a /video/ / URL pattern.",
+      "Click on the video thumbnail to open the player page.",
+      "Start playback to trigger the iframe-based video surface.",
+      "Wait a few seconds for the extension to detect the embedded stream.",
+      "Click the extension icon in your browser toolbar to open the popup.",
+      "Select your preferred video quality from the available options.",
+      "Click the download button and wait for the MP4 file to save to your computer."
+    ],
+    "supported_formats": [
+      "Input: M3U8 and MP4 video streams detected through iframe-based playback on OK.xxx pages",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Users who want to save videos from OK.xxx for offline viewing",
+      "People who prefer watching content without an internet connection",
+      "Archivists and collectors preserving digital media from OK.xxx",
+      "Users who want to avoid confusion with other OK-branded platforms"
+    ],
+    "use_cases": [
+      "Saving favorite videos from OK.xxx for offline playback",
+      "Building a local library of content from the platform",
+      "Archiving videos that may be removed or become unavailable",
+      "Watching content on devices without reliable internet access",
+      "Sharing videos with others who may not have direct access to OK.xxx"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any video on the page Make sure you are on a valid /video/ / page and that video playback has started. The extension needs to see the iframe handoff before it can detect streams.",
+      "The download fails or produces a corrupted file Try refreshing the page and restarting playback before attempting the download again. Network interruptions during the download process can cause incomplete files.",
+      "Only one quality option is available Some videos on OK.xxx may only have a single stream version available. The extension will show whatever options the platform provides through the iframe handoff.",
+      "The extension icon is grayed out on OK.xxx pages Verify that you are on a supported domain (ok.xxx, www.ok.xxx, or xiaoshenke.net) and that the page follows the /video/ / pattern.",
+      "Downloads are slow or timing out Large video files can take time to download, especially on slower connections. Try downloading during off-peak hours or check your internet speed."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported OK.xxx page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "OK.xxx uses iframe-based playback handoffs on its video pages",
+      "The extension covers ok.xxx, www.ok.xxx, and xiaoshenke.net domains"
+    ],
+    "about": [
+      "OK.xxx is a video platform that uses short /video/ / page routes and iframe-based playback to deliver content. Okxxx Downloader helps users save videos from this platform by working with its specific page structure and embedded player surface."
+    ]
+  },
+  "serpx_link": "https://serpx.link/okxxx-downloader",
+  "github_topics": [
+    "okxxx-download",
+    "okxxx-downloader",
+    "okxxx-video-downloader",
+    "okxxx-video-downloader-online",
+    "okxxx-video-downloader-mac",
+    "okxxx-video-downloader-window",
+    "okxxx-video-downloader-free",
+    "okxxx-video-downloader-extension",
+    "okxxx-video-downloader-app",
+    "okxxx-video-downloader-chrome",
+    "okxxx-video-downloader-from-url",
+    "how-to-download-okxxx-videos",
+    "how-to-download-okxxx-videos-mac",
+    "how-to-download-okxxx-videos-windows",
+    "how-to-download-okxxx-videos-online",
+    "how-to-download-okxxx-videos-free",
+    "how-to-download-from-okxxx",
+    "how-to-download-videos-from-okxxx",
+    "download-okxxx-videos",
+    "okxxx-video-tutorial",
+    "save-okxxx-videos",
+    "okxxx-video-content-saver",
+    "how-to-download-okxxx-videos-for-free"
+  ],
+  "hashtags": [
+    "#OkxxxDownload",
+    "#OkxxxDownloader",
+    "#OkxxxVideoDownloader",
+    "#OkxxxVideoDownloaderOnline",
+    "#OkxxxVideoDownloaderMac",
+    "#OkxxxVideoDownloaderWindow",
+    "#OkxxxVideoDownloaderFree",
+    "#OkxxxVideoDownloaderExtension",
+    "#OkxxxVideoDownloaderApp",
+    "#OkxxxVideoDownloaderChrome",
+    "#OkxxxVideoDownloaderFromURL",
+    "#HowToDownloadOkxxxVideos",
+    "#HowToDownloadOkxxxVideosMac",
+    "#HowToDownloadOkxxxVideosWindows",
+    "#HowToDownloadOkxxxVideosOnline",
+    "#HowToDownloadOkxxxVideosFree",
+    "#HowToDownloadFromOkxxx",
+    "#HowToDownloadVideosFromOkxxx",
+    "#DownloadOkxxxVideos",
+    "#OkxxxVideoTutorial",
+    "#SaveOkxxxVideos",
+    "#OkxxxVideoContentSaver",
+    "#HowToDownloadOkxxxVideosForFree"
+  ],
+  "youtube_tags": [
+    "Okxxx Download",
+    "Okxxx Downloader",
+    "Okxxx Video Downloader",
+    "Okxxx Video Downloader Online",
+    "Okxxx Video Downloader Mac",
+    "Okxxx Video Downloader Window",
+    "Okxxx Video Downloader Free",
+    "Okxxx Video Downloader Extension",
+    "Okxxx Video Downloader App",
+    "Okxxx Video Downloader Chrome",
+    "Okxxx Video Downloader From URL",
+    "How To Download Okxxx Videos",
+    "How To Download Okxxx Videos Mac",
+    "How To Download Okxxx Videos Windows",
+    "How To Download Okxxx Videos Online",
+    "How To Download Okxxx Videos Free",
+    "How To Download From Okxxx",
+    "How To Download Videos From Okxxx",
+    "Download Okxxx Videos",
+    "Okxxx Video Tutorial",
+    "Save Okxxx Videos",
+    "Okxxx Video Content Saver",
+    "How To Download Okxxx Videos For Free"
+  ]
+}
